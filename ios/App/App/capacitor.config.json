@@ -1,0 +1,6 @@
+{
+	"appId": "com.saqib.cam",
+	"appName": "ExampleCam",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
